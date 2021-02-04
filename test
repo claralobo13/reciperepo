@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.loginmvvm",
+    "sha256_cert_fingerprints":
+    ["D6:29:86:F1:40:B2:72:5E:13:F7:59:5A:94:01:A1:C1:53:47:98:67:48:CE:4A:25:99:90:DD:17:2B:6A:51:FF"]
+  }
+}]
